@@ -1060,7 +1060,7 @@ input[type="color"],
     font-family: "PT Sans";
     font-size: 14px; }
   .table tbody td {
-    background-color: #f2f2f2;
+    /*background-color: #f2f2f2;*/
     border-color: #e5e5e5; }
     .table tbody td:nth-of-type(even) {
       background-color: white; }
